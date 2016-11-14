@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         OpenCats LinkedIn
 // @namespace    http://ec2-174-129-137-61.compute-1.amazonaws.com/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        http*://ec2-174-129-137-61.compute-1.amazonaws.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/mlespiau/opencats-tampermonkey-goodies/master/linkedin-search.js
-// @downloadURL  https://raw.githubusercontent.com/mlespiau/opencats-tampermonkey-goodies/master/linkedin-search.js
+// @updateURL    https://raw.githubusercontent.com/mlespiau/opencats-tampermonkey-goodies/master/linkedin-search.user.js
+// @downloadURL  https://raw.githubusercontent.com/mlespiau/opencats-tampermonkey-goodies/master/linkedin-search.user.js
 // @noframes
 // ==/UserScript==
 
