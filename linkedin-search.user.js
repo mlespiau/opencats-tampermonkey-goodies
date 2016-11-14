@@ -53,6 +53,7 @@
             console.log(searchQuery);
             var link = document.createElement('a');
             link.setAttribute('href', searchQuery);
+            link.setAttribute('target', '_blank');
             var img = document.createElement('img');
             img.setAttribute('src', 'http://www.tallergestiontecnica.com/wp-content/plugins/fixed-social-icons/img/linkedin.png');
             img.setAttribute('style', 'display: inline; width:18px; margin-right: 2px; vertical-align: middle;');
