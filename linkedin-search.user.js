@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OpenCats LinkedIn
 // @namespace    http://ec2-174-129-137-61.compute-1.amazonaws.com/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        http*://ec2-174-129-137-61.compute-1.amazonaws.com/*
